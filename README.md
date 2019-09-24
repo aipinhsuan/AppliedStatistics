@@ -22,10 +22,10 @@
 1.決定要關注的特徵值、變數
 
 2.透過下列分析方式挑選出統計模型        
-* 逐步選擇法(Stepwise Selection)
-* 向前選擇法(Forward Selection)
-* 後退消除法(Backward Elimination) 
-* 最佳子集迴歸        
+* Stepwise Selection
+* Forward Selection
+* Backward Elimination
+* Best Subsets Regression        
 
 3.透過回歸分析找出最終的統計模型
 
