@@ -27,7 +27,10 @@
 * Backward Elimination
 * Best Subsets Regression        
 
-3.透過回歸分析找出最終的統計模型
+3.透過迴歸分析找出最終的統計模型
+* 初步檢視迴歸分析
+* 離群值(outlier)分析
+* 檢查迴歸假設
 
 ## 結論
 
